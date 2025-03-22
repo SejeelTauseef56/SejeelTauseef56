@@ -66,11 +66,6 @@ Currently, I work at **Chippy Digital** 🏢, developing robust applications wit
 
 ---
 
-## GitHub Stats 📊
-
-![Sejeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejeelTauseef56&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
 
 ## Fun Fact 🎉
 
